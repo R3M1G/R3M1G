@@ -10,12 +10,12 @@ EN/US PT-BR
 
 Here is my latest project > https://tiktok---ebac-ea7d6.web.app/
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renan.rpm
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-p-653a68136/
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renan.rpm)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-p-653a68136/)
  
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3M1G)](https://github.com/R3M1G/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3M1G)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3M1G)](https://github.com/anurags/github-readme-stats)
 
 
   
