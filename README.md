@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ## I´m Renan 
-EN/US PT-BR
+ENGLISH / PT-BR
 
 
 - 🔭 I’m currently working on > Building a Website for my first Client 
 - 🌱 I’m currently learning HTML, CSS, JS, React, Java
-- 🤔 I’m looking for help with  ALL THE ABOVE LOL
+  
 
 Here is my latest project > https://tiktok---ebac-ea7d6.web.app/
 
